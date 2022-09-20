@@ -1,5 +1,11 @@
 # Content-Management
 
+
+
+
+https://user-images.githubusercontent.com/60621655/191357918-eacdd260-dab0-4e80-8277-6ff07c44f316.mp4
+
+
 ## How to start
 1. install vue/cli for front project
 ```
