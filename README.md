@@ -8,7 +8,7 @@ npm install -g @vue/cli
 2. install python >= 3.8 with following [guide](https://www.python.org/downloads/) for back project
 3. clone the project with following command
 ```
-git clone git@github.com:youngbizman/Content-Management.git
+git clone git@github.com:ShayanEmzed/Content-Management.git
 ```
 4. go to `/back` and run following commands for creating virtualenv, active it, install requirments and run backend project
 ```
